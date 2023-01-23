@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "442687545272",
+    "firebase_url": "https://ogclub-5a4cb-default-rtdb.firebaseio.com",
+    "project_id": "ogclub-5a4cb",
+    "storage_bucket": "ogclub-5a4cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442687545272:android:f8bb6b7789782ed704f94d",
+        "android_client_info": {
+          "package_name": "com.harry9425.og"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442687545272-0gkd8id4rrvph8pu72qifnrr45rp3lgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harry9425.og",
+            "certificate_hash": "a9e540622b2dea208de881123a4cc97ad9670e3b"
+          }
+        },
+        {
+          "client_id": "442687545272-jl3ji57g8j7200dpa85l7bc3p4emenh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV_zlbBGFoH7LkLbB2wHbxqeBz5bedwPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442687545272-jl3ji57g8j7200dpa85l7bc3p4emenh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

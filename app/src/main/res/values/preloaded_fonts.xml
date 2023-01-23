@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adamina</item>
+        <item>@font/alike</item>
+        <item>@font/be_vietnam_light</item>
+        <item>@font/chivo</item>
+        <item>@font/chivo_black</item>
+        <item>@font/delius</item>
+        <item>@font/lato</item>
+    </array>
+</resources>
